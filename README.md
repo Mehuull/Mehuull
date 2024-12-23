@@ -1,7 +1,7 @@
 ## Hi👋, I' Am Mehuul..
 <h4>A Full Stack Web Developer 💻 </h4>
 
-Here are some ideas to get you started:
+somethings about me:
 
 - 🔭 I’m currently working on full stack real estate app...
 - 🌱 I’m currently looking into NodeJs,ExpressJs.. 
